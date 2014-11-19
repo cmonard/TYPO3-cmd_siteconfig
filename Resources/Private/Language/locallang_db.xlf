@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-11-18T09:38:03Z" product-name="cmd_siteconfig">
+		<header/>
+		<body>
+			<trans-unit id="tx_cmdsiteconfig_configuration">
+				<source>Site configuration</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.label">
+				<source>Configuration label</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites">
+				<source>Configuration available for folowing website</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites.I.0">
+				<source>All sites</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites.I.1">
+				<source>__Websites :__</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.tab.items">
+				<source>Items</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.confitem">
+				<source>Configuration item</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem">
+				<source>Configuration item</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.constant">
+				<source>Constant</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_text">
+				<source>Value</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_area">
+				<source>Value</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_check">
+				<source>Active</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants">
+				<source>Predefinited constants</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.label">
+				<source>Constant label</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.constant">
+				<source>Constant name</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype">
+				<source>Constant type</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.0">
+				<source>Input</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.1">
+				<source>Textarea</source>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.2">
+				<source>Checkbox</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

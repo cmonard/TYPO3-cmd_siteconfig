@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-11-18T09:38:27Z" product-name="cmd_siteconfig">
+		<header/>
+		<body>
+			<trans-unit id="tx_cmdsiteconfig_configuration">
+				<source>Site configuration</source>
+                                <target state="translated">Configuration de site</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.label">
+				<source>Configuration label</source>
+                                <target state="translated">Label de la configuration</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites">
+				<source>Configuration available for folowing website</source>
+                                <target state="translated">Configuration disponible pour les sites suivant</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites.I.0">
+				<source>All sites</source>
+                                <target state="translated">Tous les sites</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.sites.I.1">
+				<source>__Websites :__</source>
+                                <target state="translated">__Sites :__</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.tab.items">
+				<source>Items</source>
+                                <target state="translated">Éléments</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_configuration.confitem">
+				<source>Configuration item</source>
+                                <target state="translated">Éléments de configuration</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem">
+				<source>Configuration item</source>
+                                <target state="translated">Élément de configuration</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.constant">
+				<source>Constant</source>
+                                <target state="translated">Constante</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_text">
+				<source>Value</source>
+                                <target state="translated">Valeur</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_area">
+				<source>Value</source>
+                                <target state="translated">Valeur</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_confitem.value_check">
+				<source>Active</source>
+                                <target state="translated">Actif</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants">
+				<source>Predefinited constants</source>
+                                <target state="translated">Constantes prédéfini</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.label">
+				<source>Constant label</source>
+                                <target state="translated">Label de la constante</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.constant">
+				<source>Constant name</source>
+                                <target state="translated">Nom de la constante</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype">
+				<source>Constant type</source>
+                                <target state="translated">Type de la constante</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.0">
+				<source>Input</source>
+                                <target state="translated">Champ texte</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.1">
+				<source>Textarea</source>
+                                <target state="translated">Texte multiligne</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsiteconfig_constants.consttype.I.2">
+				<source>Checkbox</source>
+                                <target state="translated">Case à cocher</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

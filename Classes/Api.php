@@ -90,6 +90,7 @@ class Api implements \TYPO3\CMS\Core\SingletonInterface {
         public function processDatamap_afterAllOperations(\TYPO3\CMS\Core\DataHandling\DataHandler &$pObj) {
                 if ($this->triggerUpdate) {
                         $pObj->clear_cacheCmd('system');
+                        $pObj->clear_cacheCmd('pages');
                 }
         }
 
